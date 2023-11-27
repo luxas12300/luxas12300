@@ -3,7 +3,7 @@
 ## Um pouco sobre mim
 
 - 🎓 Graduando em Interdisciplinar em Ciências e Tecnologia e técnico em mecânica pelo IFBA. 
-- 💼 Consultor COmercial na Empresa JR de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br)
+- 💼 Consultor Comercial na Empresa JR de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br)
 - 📚 Sempre aprendendo novas tecnologias.
 - 🎮 Nos tempos livres procuro sair com amigos, jogar, tocar violão e presquisar sobre novidades na tecnologia e cursos para fazer.
 
