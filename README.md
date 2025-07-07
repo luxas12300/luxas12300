@@ -24,6 +24,18 @@
   
 </div>
 
+
+## Estatísticas:
+
+<div display="inline">
+  <a href="https://github.com/arnaldoliro">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luxas12300&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxas12300&layout=compact&theme=dracula" alt="Top Langs" />
+  </a>
+</div>
+
 ## Onde posso ser encontrado:
 
 <div> 
