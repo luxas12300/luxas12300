@@ -1,12 +1,19 @@
-# Lucas Costa
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=006400&width=435&lines=Ol%C3%A1%2C+sou+o+Lucas+Costa;Sou+Desenvolvedor+Back+End"/>
+  </a>
+</p>
 
 ## Um pouco sobre mim
 
-- 🎓 Graduando em Interdisciplinar em Ciências e Tecnologia e técnico em mecânica pelo IFBA. 
-- 💼 Atuo como colaborador na equipe de Back-End na Empresa JR de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br)
+- 🎓 Graduando em Interdisciplinar em Ciências e Tecnologia na UFBA e técnico em mecânica pelo IFBA. 
+- 💼 Atuo como Desenvolvedor de Software na Santa Casa da Bahia, além de ser colaborador na equipe de Back-End na Empresa JR de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br)
 - 📚 Sempre aprendendo novas tecnologias.
-- 🎮 Nos tempos livres procuro ficar com minha namorada, sair com amigos, jogar, tocar violão e presquisar sobre novidades na tecnologia e cursos para fazer.
-
+- Atual
+- Sou apaixonado por tecnologia e atualmente estou em busca de novos desafios profissionais na área de TI. Tenho habilidades em Java, SQL, HTML, CSS, JavaScript, Spring, Docker, TS, swagger e estou sempre aprendendo algo novo por meio de projetos práticos e desafios.
+- 🎯 Busco sempre criar soluções funcionais e escaláveis para aprender novas tecnologias e impactar pessoas positivamente.
+  
 ## Tecnologias:
 
 <div display="inline">
@@ -24,11 +31,16 @@
   
 </div>
 
+## 🧠 Atualmente estou estudando:
+
+- Microsserviços
+- Hospedagem em Nuvem
+
 
 ## Estatísticas:
 
 <div display="inline">
-  <a href="https://github.com/arnaldoliro">
+  <a href="https://github.com/luxas12300">
     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luxas12300&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
