@@ -7,11 +7,10 @@
 
 ## Um pouco sobre mim
 
-- 🎓 Graduando em Interdisciplinar em Ciências e Tecnologia na UFBA e técnico em mecânica pelo IFBA. 
+- 🎓 Graduado em Interdisciplinar em Ciências e Tecnologia na UFBA e técnico em mecânica pelo IFBA. 
 - 💼 Atuo como Desenvolvedor de Software na Santa Casa da Bahia, além de ser colaborador na equipe de Back-End na Empresa JR de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br)
 - 📚 Sempre aprendendo novas tecnologias.
-- Atual
-- Sou apaixonado por tecnologia e atualmente estou em busca de novos desafios profissionais na área de TI. Tenho habilidades em Java, SQL, HTML, CSS, JavaScript, Spring, Docker, TS, swagger e estou sempre aprendendo algo novo por meio de projetos práticos e desafios.
+- Sou apaixonado por tecnologia e atualmente estou em busca de novos desafios profissionais na área de TI. Tenho habilidades em Java, Spring, NestJs, HTML, CSS, JavaScript, TypeScript, React, NextJs, SQL, Docker, swagger e estou sempre aprendendo algo novo por meio de projetos práticos e desafios.
 - 🎯 Busco sempre criar soluções funcionais e escaláveis para aprender novas tecnologias e impactar pessoas positivamente.
   
 ## Tecnologias:
